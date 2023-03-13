@@ -1,4 +1,4 @@
-# Cookiecuter Personal Platzi
+# Cookiecuter Personal 
 
 <!-- badges: start -->
 [![@jvelzmagic](https://img.shields.io/badge/@jvelezmagic-Sitio_personal-blue?&logoColor=white)](https://jvelezmagic.com/) 
