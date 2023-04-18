@@ -44,5 +44,3 @@ cookiecutter https://github.com/platzi/curso-entorno-avanzado-ds --checkout cook
         │
         └── README.md          <- The top-level README for developers using this project.
 
----
-Proyecto creado con fines demostrativos para el curso "[Configuración avanzada...]()" de [Platzi](https://platzi.com/) por [@jvelezmagic](https://twitter.com/jvelezmagic).
